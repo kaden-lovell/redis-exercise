@@ -30,3 +30,5 @@ bootstrap - https://docs.docker.com/engine/reference/commandline/exec/
 **Learning Objective**
 
 * Learn redis in memory database, and configure it for home server PoC projects
+* Work a little bit with the nextjs framework
+* Get a good feel for configuring my home server for projects
