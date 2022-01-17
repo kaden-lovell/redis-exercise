@@ -15,7 +15,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Diagram of project
 ![Alt text](./diagrams/next-redis-diagram.jpg)
 
+
+
 redis-om - https://github.com/redis/redis-om-node
+
 redis docker image - https://hub.docker.com/_/redis/
+
 redisearch docker image - https://hub.docker.com/r/redislabs/redisearch/
+
 bootstrap - https://docs.docker.com/engine/reference/commandline/exec/
