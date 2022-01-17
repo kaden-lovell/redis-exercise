@@ -26,3 +26,6 @@ redis docker image - https://hub.docker.com/_/redis/
 redisearch docker image - https://hub.docker.com/r/redislabs/redisearch/
 
 bootstrap - https://docs.docker.com/engine/reference/commandline/exec/
+
+**Learning Objective**
+Learn redis in memory database, and configure it for home server PoC projects
